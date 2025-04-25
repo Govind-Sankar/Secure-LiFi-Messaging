@@ -2,6 +2,11 @@
 
 A Python-Arduino based Li-Fi communication system simulating quantum encryption using Base64 and XOR over visible light. It uses libraries 
 
+## Screenshots
+
+<img src="Screenshot_Transmitter.jpg" width="300">
+<img src="Screenshot_Receiver.jpg" width="300">
+
 ## Circuit Diagram
 
 <img src="Circuit.png">
@@ -26,8 +31,6 @@ python -m pip install --upgrade pip && python -m pip install pyserial
 - [Alvin Binoy Manicheril](https://github.com/Alvin-binoy)
 - [S Sanjay](https://github.com/Sanjay-5406)
 - [N L Lalith Raghavendra](https://github.com/Ltechindustries)
-
-
 
 ## License
 
