@@ -24,7 +24,7 @@ python -m pip install --upgrade pip && python -m pip install pyserial
 
 - [Govind Sankar](https://github.com/Govind-Sankar)
 - [Sanidhya Sharma](https://github.com/Sanidhyadamned)
-- [Noel Ann Roy](https://github.com/N2006AR)
+- [Noel Ann Roy](https://github.com/Noel-Ann-Roy)
 - [Muhammad Hanan Sajid](https://github.com/MdHananSjd)
 - [Aditi Singh](https://github.com/okaditi)
 - [Alvin Binoy Manicheril](https://github.com/Alvin-binoy)
